@@ -733,6 +733,6 @@ client.on('message', msg => {
 
 
 
-client.login('MzY2NTk0MjgxOTk1MTA4MzYz.DQ0F4g.8eo7K_-P2y-Mu1oXMmGo3WaZPXc');
+(process.env.BOT_TOKEN);
 
 );
